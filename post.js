@@ -1,8 +1,8 @@
 const request = require('request');
 
 const json = {
-    "name": "Geovanny Poveda",
-    "email": "pedro@geovanny.me",
+    "name": "andrei gonzalez",
+    "email": "pedro@andru0829@gmail.com",
 };
 
 request.post({
