@@ -1,0 +1,15 @@
+create database apiandrei
+use database apiandrei
+
+CREATE TABLE ApiAndrei(
+	
+    Nombre varchar(50),
+    NTiket numeric(50),
+	ID numeric(50)
+)
+
+INSERT INTO ApiAndrei VALUES ('isabel',1,12345)
+INSERT INTO ApiAndrei VALUES ('Andrei',2,147852)
+INSERT INTO ApiAndrei VALUES ('Oscar',3,36985)
+INSERT INTO ApiAndrei VALUES ('Daniela',4,256987)
+INSERT INTO ApiAndrei VALUES ('juan',50,32)
